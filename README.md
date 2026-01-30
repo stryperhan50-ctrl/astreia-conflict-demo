@@ -1,3 +1,3 @@
 # Astreia Conflict Demo
 
-Base line for conflict demonstration.
+FEATURE branch update for conflict.
